@@ -1,4 +1,4 @@
-<p align="center"><img src="logo-tribal-mnc.png" width="400"></p>
+<p align="center"><img src="./public/logo-tribal-mnc.png" width="400"></p>
 
 ## Code Challenge 
 
